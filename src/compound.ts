@@ -5,3 +5,4 @@
 // Commit 5: Adding a comment to compound.ts
 // Commit 6: Adding a comment to compound.ts
 // Commit 7: Adding a comment to compound.ts
+// Commit 8: Adding a comment to compound.ts
